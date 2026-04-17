@@ -1,5 +1,5 @@
 # React + Vite + Typescript + tailwind
-#This is readme
+#Write comments on every section
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
